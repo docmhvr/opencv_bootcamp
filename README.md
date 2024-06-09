@@ -1,6 +1,6 @@
-# Project Title: Computer Vision Tasks with OpenCV
+# Computer Vision Tasks with OpenCV in Python and C++
 
-Welcome to the Computer Vision Tasks repository! This project demonstrates various computer vision techniques using OpenCV learned during openCV bootcamp. Below are the key tasks implemented in this project.
+Welcome to the Computer Vision Tasks repository! This repository is based on the opencv bootcamp by opencv's open university demonstrates various computer vision techniques using OpenCV learned during openCV bootcamp. Below are the key tasks implemented in this project in python as well as in C++.
 
 ## Table of Contents
 - [Tasks](#tasks)
